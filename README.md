@@ -16,7 +16,3 @@ An Excel dashboard created to analyze sales performance using Pivot Tables, Pivo
 - Monthly Trends
 - Regional Performance
 - Interactive Filters
-
-## Dashboard Preview
-
-![Dashboard](XL Deepak Sales Performance Dashboard.png)
